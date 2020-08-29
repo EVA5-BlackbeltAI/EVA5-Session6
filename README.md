@@ -25,6 +25,7 @@
 4. Find any 25 misclassified images (combined into single plot) for the GBN model. Must use the saved model from the above jobs. Must show actual and predicted class names.
 
 ## Model Parameters
+
 ![Model_Parameters](Images/Model_Parameters.PNG)
 
 ## Model Hyperparameters
