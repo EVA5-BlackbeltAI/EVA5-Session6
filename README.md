@@ -1,6 +1,13 @@
 # Session 6 - Batch Normalization and Regularization
 
-[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/EVA5-BlackbeltAI/EVA5-Session6/blob/master/EVA5_Session_6.ipynb)
+[![Open Jupyter Notebook](Images/nbviewer_badge.png)](https://nbviewer.jupyter.org/github/EVA5-BlackbeltAI/EVA5-Session6/blob/Anubhab_branch/EVA5_Session_6.ipynb)
+
+## Group Members
+
+1. Anubhab Panda
+2. Nikhil Shrimali
+3. Prema Kathiresan Vasagam
+4. Mallikarjun Sajjan
 
 ## Assignment Objective
 
@@ -43,9 +50,6 @@ The accuracy for various scenarios are plotted below:
 
 ### Misclassified images
 
-The misclassified images for the model with Ghost Batch Normalization are shown below: 
+The misclassified images for the model with Ghost Batch Normalization are shown below:
 
 ![Loss_Plot](Images/Misclassified.PNG)
-
-
-
