@@ -5,7 +5,7 @@
 ## Group Members
 
 1. Anubhab Panda
-2. Nikhil Shrimali
+2. Srikrishna Shankar
 3. Prema Kathiresan Vasagam
 4. Mallikarjun Sajjan
 
